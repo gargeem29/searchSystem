@@ -3,8 +3,6 @@
 ## Project Description
 This project implements a search system in Python, designed to process and retrieve relevant information from a dataset based on specific search criteria. The notebook covers data preprocessing, feature extraction, and search algorithms to facilitate accurate and efficient search operations.
 
-## Requirements
-Python 3.x
 
 ## How to Run
 1. Clone the repository
