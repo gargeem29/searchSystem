@@ -8,12 +8,6 @@ This project implements a search system in Python, designed to process and retri
 1. Clone the repository
 2. Open the notebook in GoogleColab and execute the cells one by one
 
-## Installation
-Ensure you have Python 3.x installed. Install the required libraries with:
-```bash
-     pip install numpy pandas scikit-learn
-```
-
 ## Features
 - **Data Preprocessing**: Cleans data for consistency and prepares it for further processing.
 - **Feature Engineering**: Extracts meaningful features from the text data to enhance search functionality.
