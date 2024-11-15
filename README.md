@@ -1,5 +1,8 @@
 # Search System
 
+## Loom Video Link:
+https://www.loom.com/share/392627f71ca54a24a25f2bcec5588b30?t=139&sid=ea6dce76-4863-45f1-a3b5-179dbe0c0637
+
 ## Project Description
 This project implements a search system in Python, designed to process and retrieve relevant information from a dataset based on specific search criteria. The notebook covers data preprocessing, feature extraction, and search algorithms to facilitate accurate and efficient search operations.
 
